@@ -1,3 +1,1 @@
-var vagnrat = require('./lib/vagnrat');
-
-module.exports = vagnrat;
+module.exports = require('./lib/vagrant');
