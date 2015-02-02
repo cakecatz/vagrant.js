@@ -8,5 +8,9 @@
     "coffee": "coffee -o lib/ -c src/"
   },
   "author": "Ryo Narita <info@codedoc.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cakecatz/prettyput.git"
+  }
 }
