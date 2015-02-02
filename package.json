@@ -1,0 +1,12 @@
+{
+  "name": "vagrant.js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "coffee ./src/test.coffee",
+    "coffee": "coffee -o lib/ -c src/"
+  },
+  "author": "Ryo Narita <info@codedoc.net>",
+  "license": "MIT"
+}
