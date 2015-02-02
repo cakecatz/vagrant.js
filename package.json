@@ -1,6 +1,6 @@
 {
   "name": "vagrant.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cakecatz/prettyput.git"
+    "url": "git://github.com/cakecatz/vagrant.js.git"
   }
 }
