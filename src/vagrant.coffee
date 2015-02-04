@@ -13,7 +13,7 @@ vagrant = {
           id: arr[0]
           name: arr[1]
           provider: arr[2]
-          status: arr[3]
+          state: arr[3]
           directory: arr[4]
         }
       callback machineStatusList, stderr
