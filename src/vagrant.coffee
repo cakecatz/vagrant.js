@@ -21,7 +21,6 @@ vagrant = {
   _machineStatusParse: (text)->
     machineStatusList = text.split "\n"
     if machineStatusList.length <= 6
-      p.p "There are not virtual Machines"
       return []
     else
       return machineStatusList.slice 2, -8
