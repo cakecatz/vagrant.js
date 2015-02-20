@@ -7,6 +7,7 @@
     "test": "coffee ./src/test.coffee",
     "coffee": "coffee -o lib/ -c src/"
   },
+  "keywords": ["vagrant"],
   "author": "Ryo Narita <info@codedoc.net>",
   "license": "MIT",
   "repository": {

@@ -7,7 +7,7 @@ This module is wrapper of vagrant.
 
 ## example code
 
-    vagrant = require("vagrant.js");
+    var vagrant = require("vagrant.js");
 
     vagrant.status(function(statusArr, stderr){
 
